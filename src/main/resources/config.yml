@@ -1,0 +1,6 @@
+Yuushya_recycle_bin_0:
+  - "[player] dc open"
+  - "[console] dc open %player_name%"
+Yuushya_electric_steamer:
+  - "[player] dc open"
+  - "[console] dc open %player_name%"

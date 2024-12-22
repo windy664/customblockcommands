@@ -1,0 +1,4 @@
+name: customblockcommands
+version: $version
+main: org.windy.customblockcommands.Customblockcommands
+api-version: '1.21'
